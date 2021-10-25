@@ -11,4 +11,4 @@ Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
 ```
 
-Link to Jaden's former Twitter account: [@officialjaden](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
+Link to Jaden's former Twitter account via archive<span>.org</span>: [@officialjaden](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
