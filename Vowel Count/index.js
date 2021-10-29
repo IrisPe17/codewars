@@ -1,3 +1,5 @@
+// Version 1
+
 function getCount(str) {
   const vowels = ["a", "e", "i", "o", "u"]
   let vowelsCount = 0;
@@ -9,4 +11,14 @@ function getCount(str) {
   return vowelsCount;
 }
 
-// can also be solved with .match() and regex
+// Version 2
+
+function getCount(str) {
+  const vowels = ["a", "e", "i", "o", "u"]
+
+  const chars = str.split('')
+  const result = chars.filter(char => vowels.includes(char))
+  return result.length
+}
+
+// can also be solved with .match() or .replace() and regex
